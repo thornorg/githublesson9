@@ -1,2 +1,3 @@
 Hello admin, i created new file 2 by kotha
-Hello sir, i edited new file 2 by kotha
+Hello sir, i edited new file 2 by dlt
+Hello admin, i edited new file 2 by kotha
